@@ -9,8 +9,6 @@
 
 - 💬 Estou disposto a ajudar com **JavaScript Puro, React e Node**
 
-- 📫 Entre em contato por **lucasmateustds@gmail.com**
-
 - ⚡ Fun fact **Amo JS e não gosto de TS por mais que eu goste de linguagens fortemente tipadas**
 
 
