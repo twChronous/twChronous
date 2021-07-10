@@ -9,7 +9,7 @@
 
 - 💬 Estou disposto a ajudar com **JavaScript Vannila, React e Node.js**.
 
-- ⚡ **Amo JavaScript e não gosto de TypeScript por mais que eu goste de linguagens fortemente tipadas**.
+- ⚡ **Amo JavaScript**.
 
 
 <h3 align="left">Linguagens:</h3>
