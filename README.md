@@ -1,8 +1,6 @@
 <h1 align="center">Olá 👋, Meu nome é Lucas (Chronous).</h1>
 <h3 align="center">Sou um desenvolvedor Brasileiro 🇧🇷 que ama programar.</h3>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=twchronous&label=Profile%20views&color=0e75b6&style=flat" alt="twchronous" /></p>
-
 - 🔭 Atualmente estou trabalhando com **projetos aleatorios**.
 
 - 🌱 Estou estudando **C++**.
