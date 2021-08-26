@@ -80,7 +80,7 @@
 
 ### Github Stats
 
-[![card](https://github-readme-stats.vercel.app/api?username=twChronous&theme=dracula)](https://github.com/twChronous/)
+[![card](https://github-readme-stats.vercel.app/api?username=twChronous&theme=dracula&show_icons=true)](https://github.com/twChronous/)
 [![twChronous](https://github-readme-stats.vercel.app/api/top-langs/?username=twChronous&hide=html&layout=compact=true&theme=dracula)](https://github.com/twChronous/)
 
 <p align="center">
