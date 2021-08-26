@@ -84,10 +84,6 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=twChronous&hide=html&layout=compact=true&theme=dracula)](https://github.com/twChronous/)
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twchronous&" alt="twchronous" /></p>
-
-
 <h3> 🤝🏻 </h3>
 
 <p align="center">
