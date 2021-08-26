@@ -82,7 +82,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=twchronous&show_icons=true&locale=en&layout=compact&theme=dracula" alt="twchronous" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=twchronous&show_icons=true&locale=encompact=true&theme=dracula" alt="twchronous" /></p>
+<p>&nbsp;[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=twChronous&hide=html&layout=compact=true&theme=dracula)](https://github.com/twChronous/)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twchronous&" alt="twchronous" /></p>
 
