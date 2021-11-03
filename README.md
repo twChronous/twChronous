@@ -82,7 +82,6 @@
 [![twChronous](https://github-readme-stats.vercel.app/api/top-langs/?username=twChronous&hide=html&layout=compact=true&theme=dracula)](https://github.com/twChronous/)
 
 <p align="center">
-<a href="https://twchronous.github.io/portifolio" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-twchronous.github.io/portifolio/-blue?style=flat&logo=google-chrome"></a>
 <a href="mailto:lm0442097@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lm0442097@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://twitter.com/__Chronous__"><img alt="Twitter" src="https://img.shields.io/twitter/follow/__chronous__?label=Follow"></a>
 </p>
