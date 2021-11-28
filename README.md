@@ -80,8 +80,9 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=twChronous&theme=dracula&show_icons=true)](https://github.com/twChronous/)
 [![twChronous](https://github-readme-stats.vercel.app/api/top-langs/?username=twChronous&hide=html&layout=compact=true&theme=dracula)](https://github.com/twChronous/)
-[![Google Profile](https://developers.google.com/profile/u/twChronous)]
+
 <p align="center">
+<a href="https://developers.google.com/profile/u/twChronous"> Google Developer</a>
 <a href="mailto:lm0442097@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lm0442097@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://twitter.com/__Chronous__"><img alt="Twitter" src="https://img.shields.io/twitter/follow/__chronous__?label=Follow"></a>
 </p>
