@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é Lucas (Chronous).</h1>
+<h1 align="center">Olá 👋, Meu nome é Lucas.</h1>
 <h3 align="center">Sou um desenvolvedor Brasileiro 🇧🇷 que ama programar.</h3>
 
 - 🔭 Atualmente estou trabalhando com **projetos aleatorios**.
