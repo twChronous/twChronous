@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando com **projetos aleatorios**.
 
-- 🌱 Estou estudando **C++**.
+- 🌱 Estou estudando Engenharia de Software na <a href="https://fga.unb.br/">Universidade de Brasília </a>.
 
 - 💬 Estou disposto a ajudar com **JavaScript Vannila, React e Node.js**.
 
