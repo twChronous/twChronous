@@ -7,8 +7,6 @@
 
 - 💬 Estou disposto a ajudar com **JavaScript Vannila, React e Node.js**.
 
-- ⚡ **Amo JavaScript**.
-
 
 <h3 align="left">Linguagens:</h3>
 
